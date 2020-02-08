@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{E545B071-45AB-18C3-2620-C085DB1B66AA}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "TopDownARPG",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine",
+				"AIModule"
+			]
+		}
+	]
+}
